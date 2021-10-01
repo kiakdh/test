@@ -1,11 +1,9 @@
 N = int(input("정수를 입력해주세요:"))
+cnt = 0
+N3 = 0
 
-for i in range(0,N//3,1):
-    i += i
-A *= 3
-
-for i in range(0,N//5,1):
-    B += i
-B *= 5
-
-print(A+B)
+while True:
+    cnt += 1
+    N3 +=  cnt*3
+    if N3>1000:
+        break
