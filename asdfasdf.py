@@ -1,4 +1,4 @@
-def mul(A,B):
+def ASD(A,B):
     cnt = 0
     K=0
     while True:
@@ -16,7 +16,7 @@ K = input("정수를 입력해주세요: ")
 N = input("원하는 배수1을 입력해주세요: ")
 M = input("원하는 배수2를 입력해주세요: ")
 
-X = mul(K,N)
+X = ASD(K,N)
 print(X)
 
 
