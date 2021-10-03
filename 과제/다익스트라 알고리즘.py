@@ -30,8 +30,3 @@ mylist=[list(map(int, input().split())) for _ in range(n)]
 newlist=[(i,j) for i in range(n) for j in range(m) if mylist[i][j]==stp]
 
 
-'''
-https://minjoos.tistory.com/2
-https://minjoos.tistory.com/3
-https://justkode.kr/algorithm/python-dijkstra
-'''

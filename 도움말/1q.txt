@@ -1,0 +1,32 @@
+https://justkode.kr/algorithm/python-dijkstra
+
+f스트링 포맷팅
+https://blockdmask.tistory.com/429
+
+https://blockdmask.tistory.com/
+
+https://khj93.tistory.com/entry/JAVA-%EB%9E%8C%EB%8B%A4%EC%8B%9DRambda%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0-%EC%82%AC%EC%9A%A9%EB%B2%95
+
+
+리스트 내포
+for문+if문
+https://devpouch.tistory.com/76 
+
+
+
+다익스트라 알고리즘
+https://minjoos.tistory.com/2
+https://minjoos.tistory.com/3
+https://justkode.kr/algorithm/python-dijkstra
+
+
+map(int, input().split())
+https://ccamppak.tistory.com/38
+https://dojang.io/mod/page/view.php?id=2179     
+
+
+람다함수
+https://blockdmask.tistory.com/520
+
+a = [x for x in input("da").split()]]
+https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=youndok&logNo=222066086021
