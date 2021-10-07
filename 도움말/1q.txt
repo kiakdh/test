@@ -30,3 +30,6 @@ https://blockdmask.tistory.com/520
 
 a = [x for x in input("da").split()]]
 https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=youndok&logNo=222066086021
+
+try ~ except:
+https://docs.python.org/ko/3/tutorial/errors.html
