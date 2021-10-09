@@ -1,16 +1,11 @@
-n = int(input())
-result = n
-cnt = 0
+nlist = []
 
-while True:
-    first = result%10
-    last = result%10+result//10
-    result = first*10+last%10
-    cnt += 1
-    if result == n:
-        break
+for i in range(9):
+    n = int(input())
+    nlist.append(n)
 
+M = max(nlist)
 
+print(M)
+print(nlist.index(M))
 
-
-print(cnt)

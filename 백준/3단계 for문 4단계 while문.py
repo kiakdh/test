@@ -78,3 +78,17 @@ while True:
         break
 
 
+
+N = int(input())
+numbers = N
+cnt = 0
+
+
+while True:
+   data = numbers
+   d = data%10+data//10
+   numbers = (data%10)*10 + d%10
+   cnt += 1
+   if numbers == N:
+       break
+print(cnt)
